@@ -1,4 +1,4 @@
-# WebScrapperRoBot
+#   OF WebScrapperRoBot
 Simple , powerful and versatile web scraping tool designed to simplify the process of extracting data from websites. It features a user-friendly menu-driven interface and supports a wide range of data extraction options, including raw HTML, HTML elements, paragraphs, links, audios, and videos
 
 **_NOTE:_** New Patch supports web crawling.
@@ -24,7 +24,7 @@ Scraping Options:
 *These features are still under development 
 
 
-![Menu](./demos/updated-new-menu.png)
+![Menu](./realtime/updated-new-menu.png)
 
 ![Video Scraping](./demos/video-scraping.png)
 
